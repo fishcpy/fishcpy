@@ -1,4 +1,4 @@
-我的博客 blog.mengmengmao.cn
+我的博客 mengmengmao.cn
 
 <!---
 fishcpy/fishcpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
