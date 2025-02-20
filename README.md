@@ -1,4 +1,4 @@
-我的博客 你好
+你好
 
 <!---
 fishcpy/fishcpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
