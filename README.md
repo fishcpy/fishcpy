@@ -2,4 +2,4 @@
 
 ## 如需联系，请发送邮件到fishcpy@qq.com
 
-验证id 419031
+# [halo-theme-dream2.0-plus已经在halo应用市场发布啦](https://www.halo.run/store/apps/app-HrMpM)
