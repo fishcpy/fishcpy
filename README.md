@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%BD%A0%E5%A5%BD%F0%9F%91%8B;Hello+%F0%9F%91%8B)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%BD%A0%E5%A5%BD%F0%9F%91%8B;Hello+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 如需联系，请发送邮件到fishcpy@qq.com
 
-# [halo-theme-dream2.0-plus已经在halo应用市场发布啦](https://www.halo.run/store/apps/app-HrMpM)
+### [halo-theme-dream2.0-plus已经在halo应用市场发布啦](https://www.halo.run/store/apps/app-HrMpM)
